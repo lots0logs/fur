@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "__MSG_extname__",
-	"version": "1.9",
+	"version": "2.0",
 	"permissions": [
 		"<all_urls>",
 		"clipboardRead",
@@ -22,8 +22,11 @@
 		"icons/icon-48x48.png",
 		"icons/icon-128x128.png"
 	],
-	"options_page": "options.html",
-	"page_action": {
+	"options_ui": {
+		"page": "options.html",
+		"chrome_style": true
+	},
+	"browser_action": {
 		"default_icon": "icons/icon-16x16.png",
 		"default_title": "__MSG_extname__ - __MSG_options__",
 		"default_popup": "popup.html"

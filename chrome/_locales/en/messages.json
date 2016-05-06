@@ -1,11 +1,11 @@
 {
   "extname": {
-    "message": "Popchrom",
-    "description": "Extensionname"
+    "message": "FUR: Frequently Used Responses",
+    "description": "Extension Name"
   },
   "extdescription": {
-    "message": "Save time and effort with Popchrom by creating your own shortcuts for text phrases.",
-    "description": "Long extension description"
+    "message": "Save text snippets and easily insert them using keywords while you type.",
+    "description": "Extension description"
   },
   "options": {
     "message": "Options",
