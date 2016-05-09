@@ -41,7 +41,7 @@
 				"scripts/hashmap.js",
 				"scripts/date.js",
 				"scripts/search.js",
-				"scripts/jquery-1.4.2.min.js"
+				"scripts/jquery-2.2.3.min.js"
 			],
 			"all_frames": true
 		}

@@ -28,7 +28,7 @@
 let _self = null;
 
 class FrequentlyUsedResponses {
-	construct() {
+	constructor() {
 		if ( null !== _self ) {
 			return _self;
 		}
